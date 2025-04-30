@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **html, css, sass, tailwid, reactjs, nextjs, vuejs**
 
-- 📫 How to reach me **lidathy.nm@gmail.com**
+- 📫 How to reach me **lydathy074@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
